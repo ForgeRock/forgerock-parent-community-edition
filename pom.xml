@@ -139,8 +139,8 @@
         <!-- ***************** -->
         <!-- Repository Deployment URLs -->
         <!-- ***************** -->
-        <forgerockDistMgmtSnapshotsUrl>http://maven.forgerock.org/repo/snapshots</forgerockDistMgmtSnapshotsUrl>
-        <forgerockDistMgmtReleasesUrl>http://maven.forgerock.org/repo/releases</forgerockDistMgmtReleasesUrl>
+        <forgerockDistMgmtSnapshotsUrl>http://maven.forgerock.org/repo/community</forgerockDistMgmtSnapshotsUrl>
+        <forgerockDistMgmtReleasesUrl>http://maven.forgerock.org/repo/community</forgerockDistMgmtReleasesUrl>
 
         <!-- this property makes sure NetBeans 6.8+ picks up some formatting rules from checkstyle -->
         <netbeans.checkstyle.format>true</netbeans.checkstyle.format>
