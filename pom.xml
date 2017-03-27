@@ -83,9 +83,9 @@
     </repositories>
     <pluginRepositories>
         <pluginRepository>
-            <id>forgerock-plugins-repository</id>
-            <name>ForgeRock Plugin Repository</name>
-            <url>http://maven.forgerock.org/repo/repo</url>
+            <id>forgerock-community-repository</id>
+            <name>ForgeRock Community Repository</name>
+            <url>http://maven.forgerock.org/repo/community</url>
         </pluginRepository>
     </pluginRepositories>
 
