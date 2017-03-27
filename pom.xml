@@ -198,7 +198,7 @@
                     <version>${checkstylePluginVersion}</version>
                     <dependencies>
                         <dependency>
-                            <groupId>org.forgerock</groupId>
+                            <groupId>org.forgerock.ce</groupId>
                             <artifactId>forgerock-build-tools</artifactId>
                             <version>${forgerockBuildToolsVersion}</version>
                         </dependency>
@@ -281,7 +281,7 @@
                     <version>${javadocPluginVersion}</version>
                     <dependencies>
                         <dependency>
-                            <groupId>org.forgerock</groupId>
+                            <groupId>org.forgerock.ce</groupId>
                             <artifactId>forgerock-build-tools</artifactId>
                             <version>${forgerockBuildToolsVersion}</version>
                         </dependency>
@@ -381,7 +381,7 @@
                     <version>2.12.4</version>
                     <dependencies>
                         <dependency>
-                            <groupId>org.forgerock</groupId>
+                            <groupId>org.forgerock.ce</groupId>
                             <artifactId>forgerock-build-tools</artifactId>
                             <version>${forgerockBuildToolsVersion}</version>
                         </dependency>
@@ -428,7 +428,7 @@
                                 </pluginExecution>
                                 <pluginExecution>
                                     <pluginExecutionFilter>
-                                        <groupId>org.forgerock.commons</groupId>
+                                        <groupId>org.forgerock.ce.commons</groupId>
                                         <artifactId>i18n-maven-plugin</artifactId>
                                         <versionRange>[1.2.0,)</versionRange>
                                         <goals>
