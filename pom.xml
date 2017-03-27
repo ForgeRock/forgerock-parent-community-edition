@@ -56,12 +56,12 @@
     </scm>
     <distributionManagement>
         <snapshotRepository>
-            <id>forgerock-snapshots</id>
+            <id>forgerock-community-repository-snapshots</id>
             <name>ForgeRock Snapshot Repository</name>
             <url>${forgerockDistMgmtSnapshotsUrl}</url>
         </snapshotRepository>
         <repository>
-            <id>forgerock-staging</id>
+            <id>forgerock-community-repository-staging</id>
             <name>ForgeRock Release Repository</name>
             <url>${forgerockDistMgmtReleasesUrl}</url>
         </repository>
